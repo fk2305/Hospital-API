@@ -24,14 +24,14 @@ First start with downloading the code and and write npm install on code editor, 
 You will need a code editor and mongoDB setup on your computer.
 We will use postman to check the api is working or not,So download postman on your computer.
 
-1.Now use this **http://localhost:5000/api/v1/doctors/register** route to register doctor in API and add the info as shown in image
+1.Now use this **http://localhost:5000/api/v1/doctors/register** route to register doctor in API and add the info.
 
 
 
-2.Use this **http://localhost:5000/api/v1/doctors/login** to login as a doctor and add info as shown in image
+2.Use this **http://localhost:5000/api/v1/doctors/login** to login as a doctor and add info.
 
 
-3.Use this **http://localhost:5000/api/v1/patients/register** and add the token in authorization area which is recieved in second point
+3.Use this **http://localhost:5000/api/v1/patients/register** and add the token in authorization area which is recieved in second point.
 
 
 4. Use this **http://localhost:5000/api/v1/patients/62c31cc86a84003324d04cb5/create_report** to create report and add status you can see the types of 
